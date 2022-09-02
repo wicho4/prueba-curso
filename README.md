@@ -1,2 +1,2 @@
 # prueba-curso
-Este es un repositorio de prueba
+Prubas de los comandos git
